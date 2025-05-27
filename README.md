@@ -1,4 +1,5 @@
-# LingoLink – Interactive Language Learning & Global Study Buddy Through Real-Time Communication ヽ(o＾▽＾o)ノ
+# LingoLink – Interactive Language Learning & Global Study Buddy Through Real-Time Communication 
+ヽ(o＾▽＾o)ノ
 
 LingoLink is a personal project inspired by my passion for educational technology and my belief in making immersive, accessible learning available to everyone — especially those who can't afford traditional language classes or don't have access to in-person opportunities. It’s designed to help people find study partners and language buddies from anywhere in the world, encouraging real-time conversation as a powerful way to learn beyond classrooms and borders.
 
