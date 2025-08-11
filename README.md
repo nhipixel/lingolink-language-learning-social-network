@@ -4,7 +4,7 @@ LingoLink is a personal project inspired by my passion for educational technolog
 
 The platform includes live messaging, 1-on-1 and group video calls with livestreaming and screen recording features for study buddies, JWT-based authentication, and various dynamic UI themes. Built with scalability and user experience in mind, LingoLink is a hands-on experiment in modern EdTech. 
 
-[![Watch the demo](https://i.imgur.com/8yeYfvn.jpeg)]([[https://youtu.be/4153oSQKyLQ](https://youtu.be/R6bdqgad6vA)](https://youtu.be/gfz-8SahqZA))
+[![Watch the demo](https://i.imgur.com/8yeYfvn.jpeg)](https://youtu.be/gfz-8SahqZA)
 ---
 
 ## Tech Stack ヽ(・∀・)ﾉ
